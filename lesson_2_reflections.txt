@@ -1,0 +1,7 @@
+## What happens when you initialize a repository? Why do you need to do it?
+
+Need a file that can track the meta deta from my commits. Without this where would I start?
+
+## How is the staging area different from the working directory and the repository? What ## value do you think it offers?
+
+I assume that it is self-contained vs the working directory. Does it help keep things more organized to add this extra step. Also maybe it helps make fewer commits because you have a place to work on your commits before you send the to the repository. 
