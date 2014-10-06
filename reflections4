@@ -1,0 +1,4 @@
+## Why do you think some version control systems, like Git, allow saving multiple files 
+## in one commit, while others, like Google Docs, treat each file seperately?
+
+They treat commits differently, a single doc commit vs a collection of docs, because they were built for different purposes. Code/programs are often split among many different files that work/or break in unison. So it makes sense to keep different versions of these. I guess you can say that many other files are singular or modular, like say a paper/resume/letter and they documents/files don't work together, and do not rely on each other.  

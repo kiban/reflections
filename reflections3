@@ -1,0 +1,5 @@
+## What do you think are the pros and cons of manually choosing when to create a commit,
+## like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Automatically saving doesn't let make commits when there are logical changes. The time taken by each change can vary greatly. At the same time, it's probably unusual for logical changes to take more than a specific amount of time, so maybe it's a way to make sure you don't forget to make a commit. But if there simply timed commits, then how would create a title for one? 
+

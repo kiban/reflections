@@ -1,0 +1,15 @@
+## How can you use the commands git log and git diff to view the history of files?
+
+Not sure if I'm supposed to just recount the procedure or give some sort of insight into what happened and why. You can use git log to look for the particular commit by commit description and then the order of the files is the reverse of what I initially expected but maybe it makes sense working from newest to oldest, top to bottom.
+
+
+
+## How might using version control make you more confident to make changes that could 
+## that could break something?
+
+Knowing that I can always, and relatively easily revert to a previous commit that works. 
+## Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use it to work on the conversion of the kaggle code to other languages. Also once I get farther along with the xgb and embedded trees code I would like to use it for that as well.
+
+

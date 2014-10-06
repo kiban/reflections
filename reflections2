@@ -1,0 +1,9 @@
+## How could having easy access to the entire history of a file make you a more
+## efficient programmer in the long run?
+
+Right now I'm wondering if this is something I can use in IPython. I created soo many 
+different versions of functions, it became a mess. Way too much copy and pasting and 
+trying to undo, slight changes. Also was just plain ugly to look at, and made the files
+much bigger than they needed to be. 
+
+So if I can keep things more organized, cleaner, but this should also let me iterate faster and more efficiently. 
