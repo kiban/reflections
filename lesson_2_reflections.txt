@@ -1,7 +1,43 @@
-## What happens when you initialize a repository? Why do you need to do it?
+# What happens when you initialize a repository? Why do you need to do it?
 
-Need a file that can track the meta deta from my commits. Without this where would I start?
+Need a file that can track the meta deta from my commits. Without this where
+would I start?
 
-## How is the staging area different from the working directory and the repository? What ## value do you think it offers?
+# How is the staging area different from the working directory and the
+# repository? What ## value do you think it offers?
 
-I assume that it is self-contained vs the working directory. Does it help keep things more organized to add this extra step. Also maybe it helps make fewer commits because you have a place to work on your commits before you send the to the repository. 
+I assume that it is self-contained vs the working directory. Does it help
+keep things more organized to add this extra step. Also maybe it helps make
+fewer commits because you have a place to work on your commits before you
+ send the to the repository.
+
+# How can you use the staging area to make sure you have one commit per logical
+# change?
+
+By organizing all your files in the staging area before you make the final commit.
+
+## What are some situations when branches would be helpful in keeping
+# your history
+# organized? How would branches help?
+
+When I wanted to add a new feature but also keep a working copy of my
+earlier code. Branches can help create structure, and order as well.
+
+# How do the diagrams help you visualize the branch structure ?
+
+Basically creating a tree like structure. We trace back through the nodes to
+see splits, how different "paths" to different leaves are related.
+I assume this will also be really useful when we start to look at
+merging different branches.
+
+# What is the result of merging two branches together? Why do we represent
+# it in the diagram the way we do?
+
+As far as how the files are merged? Should I look at the file. So we created a
+branch to create a coin feature. We merged it back into the master once we
+got that feature to work. It looked at the tree/graph structure(merge did)
+and decided which commits to integrate into merge, then we deleted the coin
+branch, which should have deleted the commits that were unreachable. Tree
+diagram is very useful for a lot of applications, especially in cs, but in
+this case it's both a good abstraction of what we're trying to accomplish,
+but also makes it easy to merge and visualize.
