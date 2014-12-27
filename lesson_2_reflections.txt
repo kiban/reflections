@@ -41,3 +41,13 @@ branch, which should have deleted the commits that were unreachable. Tree
 diagram is very useful for a lot of applications, especially in cs, but in
 this case it's both a good abstraction of what we're trying to accomplish,
 but also makes it easy to merge and visualize.
+
+# Reflect: Automatic vs Manual Merging
+# What are the pros and cons of Git's automatic merging vs always doing merges
+# manually?
+
+More time and effort required in always performing merges manually. Removes
+some of the abstraction that could be an asset of working in teams or having
+different classes and functions work together. Do I really want to be looking
+at the every implementation that a colleague has made. Seems like this would
+slow me down.
