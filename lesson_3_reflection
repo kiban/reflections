@@ -10,3 +10,13 @@ There may only be certain parts of the repository that you're working on. You
 might not want the most up to date version of the repository for some reason,
 maybe there's been a new update that your're not sure about or an update
 that's not stable.
+
+
+# Describe the differences between forks, clones, and branches. When would
+# you use one instead of another?
+
+Forks allow us to clone another user's repository, all within github, with
+out sending information/files/msgs to our local machine. So in this sense
+forking is a subset of cloning. In some ways we might think of forking
+as a way for us to create branches of another users repository, especially
+one that we don't have permission to modify.
